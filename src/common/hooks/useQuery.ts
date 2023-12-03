@@ -1,3 +1,3 @@
-type QueryConfig = {};
+type QueryConfig = {}
 
-export const useQuery = (input: QueryConfig) => {};
+export const useQuery = (input: QueryConfig) => {}

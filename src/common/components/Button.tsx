@@ -1,7 +1,7 @@
 type Props = {
-  text: string;
-};
+  text: string
+}
 
 export function Button(props: Props) {
-  return <button> {props.text} </button>;
+  return <button> {props.text} </button>
 }

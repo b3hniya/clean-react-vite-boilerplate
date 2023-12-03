@@ -1,7 +1,7 @@
-import useStore from "../../../store/store";
+import useStore from '../../../store/store'
 
 export function AnotherPage() {
-  const { count, increaseCount, decreaseCount } = useStore();
+  const { count, increaseCount, decreaseCount } = useStore()
 
   return (
     <div>
@@ -9,5 +9,5 @@ export function AnotherPage() {
       <button onClick={increaseCount}>Increase</button>
       <button onClick={decreaseCount}>Decrease</button>
     </div>
-  );
+  )
 }
