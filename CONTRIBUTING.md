@@ -2,12 +2,6 @@
 
 Thank you for your interest in contributing to the Clean React Vite Boilerplate! This project is a TypeScript-based React starter kit, and we welcome contributions that help improve and expand its capabilities.
 
-## Code of Conduct
-
-A Code of Conduct is a document that establishes expectations for behavior for contributors to the project. It's a vital part of creating an inclusive and welcoming environment. If you don't have a Code of Conduct yet, it's a good practice to add one. It typically includes guidelines on respectful communication, steps for reporting unacceptable behavior, and the consequences of violating the guidelines.
-
-(If you decide to add a Code of Conduct, you can reference it here. If not, you can omit this section.)
-
 ## How Can I Contribute?
 
 There are various ways to contribute to this project:
